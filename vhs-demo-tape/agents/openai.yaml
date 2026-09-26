@@ -1,0 +1,4 @@
+interface:
+  display_name: "VHSデモ作成"
+  short_description: "VHSデモを作成。出力先や設定値は引数で上書き可能"
+  default_prompt: "Use $vhs-demo-tape to record [workflow]; optionally set output=.vhs/demo.gif and FontSize=24."

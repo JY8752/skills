@@ -20,4 +20,5 @@ cd skills
 
 | スキル | 説明 |
 | --- | --- |
+| [repo-skill-creator](repo-skill-creator/README.md) | 公式skill-creatorを土台に、このリポジトリでのスキル作成・更新とREADME・一覧の同期を行います。 |
 | [vhs-demo-tape](vhs-demo-tape/README.md) | VHSの `.tape` デモを作成・修正し、環境があればGIFを生成します。出力先やVHS設定は引数で上書きできます。 |

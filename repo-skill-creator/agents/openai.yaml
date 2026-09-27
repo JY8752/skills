@@ -1,0 +1,3 @@
+interface:
+  display_name: "Repo Skill Creator"
+  short_description: "Create and update skills in this repository"
